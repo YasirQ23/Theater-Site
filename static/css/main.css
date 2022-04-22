@@ -1,0 +1,55 @@
+#nav {
+    background-color: black;
+    font-size: 15 px;
+    color: white;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    max-width: 100%;
+}
+
+.centered {
+    font-size: 75px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+#datebox{
+    border-style: solid;
+    border-width: 1px;
+
+}
+
+#date{
+    color: black;
+}
+
+#logo{
+    height: 175px;
+    width: 210px;
+}
+
+.card{
+    border:0
+}
+
+#bnav{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.binfo{
+    font-size: small;
+    line-height: 40px;
+}
